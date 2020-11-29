@@ -39,7 +39,7 @@ using namespace std;
 
 int main()
 {
-	setlocale(LC_ALL, "Rus");
+	setlocale(LC_ALL, "Rus"); //лень было на английском писать все:)
 	Matrix matrix;
 	Vector vector;
 
